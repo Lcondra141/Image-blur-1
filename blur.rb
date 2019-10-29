@@ -1,4 +1,3 @@
-require 'pry'
 class Image
 
     def initialize(data)
