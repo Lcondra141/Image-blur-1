@@ -60,7 +60,7 @@ image = Image.new([
 
 image.output_image
 puts "---"
-image.blur(3)
+image.blur(2)
 puts "---"
 image.output_image
 puts "---"
